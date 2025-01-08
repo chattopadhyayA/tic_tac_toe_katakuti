@@ -26,4 +26,4 @@ import pandas
 '''
 
 ## Distribution
-If interesting, please feel free to modify/distribute the code and let me know for improvements/suggestion.
+From Rivendell to the ends of the Earth, this code is free to all who wander.
